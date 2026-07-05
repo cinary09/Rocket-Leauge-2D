@@ -1,0 +1,11 @@
+{
+  "level": 1,
+  "xp": 0,
+  "rank": "Rookie",
+  "unlocked_arenas": [
+    "Standard Arena",
+    "Urban Arena",
+    "Desert Arena",
+    "Neo Arena"
+  ]
+}

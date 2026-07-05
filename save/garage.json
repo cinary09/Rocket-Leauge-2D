@@ -1,0 +1,26 @@
+{
+  "body": "Dominus",
+  "primary_color": [
+    242,
+    246,
+    252
+  ],
+  "accent_color": [
+    38,
+    161,
+    255
+  ],
+  "boost_effect": "Flame",
+  "unlocked_bodies": [
+    "Octane",
+    "Dominus",
+    "Breakout",
+    "Merc"
+  ],
+  "unlocked_boosts": [
+    "Ion",
+    "Flame",
+    "Plasma",
+    "Spark"
+  ]
+}
