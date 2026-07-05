@@ -1,4 +1,4 @@
-# 🚀 Rocket 2D
+# 🚀 Rocket Leauge 2D
 
 A fast-paced 2D arcade soccer game inspired by rocket-powered vehicle gameplay. Control your rocket, hit the ball, score goals, and challenge either AI or another player in exciting matches.
 
@@ -139,7 +139,7 @@ assets/screenshots/gameplay.png
 
 Created by **cinary09**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/cinary09
 
 ---
 
